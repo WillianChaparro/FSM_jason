@@ -1,0 +1,26 @@
+[
+    {
+    "entrada":0,
+    "est_act":0,
+    "salida" :0,
+    "est_sig" :0
+    },
+    {
+    "entrada":1,
+    "est_act":0,
+    "salida" :0,
+    "est_sig" :0     
+    },
+    {
+    "entrada":0,
+    "est_act":0,
+    "salida" :0,
+    "est_sig" :0        
+    },
+    {
+    "entrada":0,
+    "est_act":0,
+    "salida" :0,
+    "est_sig" :0        
+    }
+]
