@@ -8,19 +8,19 @@
     {
     "entrada":1,
     "est_act":0,
-    "salida" :0,
-    "est_sig" :0     
+    "salida" :1,
+    "est_sig" :1     
     },
     {
     "entrada":0,
-    "est_act":0,
-    "salida" :0,
-    "est_sig" :0        
+    "est_act":1,
+    "salida" :1,
+    "est_sig" :1        
     },
     {
-    "entrada":0,
-    "est_act":0,
+    "entrada":1,
+    "est_act":1,
     "salida" :0,
-    "est_sig" :0        
+    "est_sig" :1        
     }
 ]
